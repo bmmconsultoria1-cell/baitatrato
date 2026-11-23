@@ -1,0 +1,13 @@
+:root{
+  --bt-green:#14201A;
+  --bt-cream:#F3ECDD;
+  --bt-orange:#E8512F;
+  --bt-orange-accessible:#B8361A;
+  --bt-font-display:'Bricolage Grotesque',sans-serif;
+  --bt-font-body:'Hanken Grotesk',sans-serif;
+  --bt-phi:1.62;
+  --bt-motion-circle:1450ms;
+  --bt-motion-moustache-delay:420ms;
+  --bt-motion-moustache:1200ms;
+  --bt-motion-ease:cubic-bezier(.2,.86,.22,1);
+}
