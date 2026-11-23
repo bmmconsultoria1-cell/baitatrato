@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title">
+  <title id="title">Favicon Baita Trato</title>
+  
+  <defs>
+    <mask id="bt-icon-cutout" maskUnits="userSpaceOnUse" x="32" y="32" width="336" height="336">
+      <rect x="32" y="32" width="336" height="336" fill="#fff"/>
+      <path d="M200 215.81C176.28 195.55 152.56 190.12 130.82 194.56C109.08 199.51 88.82 216.31 67.97 224.21C64.61 225.5 64.41 230.44 67.97 236.76C82.4 261.76 108.59 269.18 139.22 269.18C163.93 269.18 186.66 253.86 200 241.51C213.34 253.86 236.07 269.18 260.78 269.18C291.41 269.18 317.6 261.76 332.03 236.76C335.59 230.44 335.39 225.5 332.03 224.21C311.18 216.31 290.92 199.51 269.18 194.56C247.44 190.12 223.72 195.55 200 215.81Z" fill="#000"/>
+    </mask>
+  </defs>
+  <circle cx="200" cy="200" r="168" fill="#E8512F" mask="url(#bt-icon-cutout)"/>
+</svg>
